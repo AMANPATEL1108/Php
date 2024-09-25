@@ -75,12 +75,12 @@
             echo $value;
         }
 
-
+        print5();
         function print5()
         {
             echo "FIVE";
         }
-        print5();
+
 
         function printNumber($number)
         {
@@ -89,8 +89,6 @@
         }
         printNumber(5);
         echo "<br>";
-
-
 
 
 
